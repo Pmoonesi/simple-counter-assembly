@@ -11,3 +11,7 @@ My circuit has three switches, first one starts the counter, second one stops it
 Here is a short demo of the project:
 
 ![img](./assets/Animation.gif)
+
+## More
+
+You can access the project manual in `assets/Micro_FinalProject_Fall2021.pdf` and read more about it. It has two other projects in it which were not necessary for me to do.
